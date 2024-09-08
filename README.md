@@ -163,11 +163,6 @@ Alex Reardon [@alexandereardon](https://twitter.com/alexandereardon)
 
 > Alex is no longer personally maintaning this project. The other wonderful maintainers are carrying this project forward.
 
-## Maintainers
-
-- [Daniel Del Core](https://twitter.com/danieldelcore)
-- Many other [@Atlassian](https://twitter.com/Atlassian)'s!
-
 ## Collaborators 🤝
 
 - Bogdan Chadkin [@IAmTrySound](https://twitter.com/IAmTrySound)
