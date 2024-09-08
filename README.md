@@ -21,7 +21,7 @@ We recommend that you don’t raise issues or pull requests, as they will not be
 <p align="center">
   <img src="https://user-images.githubusercontent.com/2182637/53611918-54c1ff80-3c24-11e9-9917-66ac3cef513d.png" alt="react beautiful dnd logo" />
 </p>
-<h1 align="center">react-beautiful-dnd <small><sup>(rbd)</sup></small></h1>
+<h1 align="center">react-beautiful-dnd gerald525 & watcher919 <small><sup>(rbd)</sup></small></h1>
 
 <div align="center">
 
@@ -157,14 +157,6 @@ There are a lot of libraries out there that allow for drag and drop interactions
 - [Road map](https://github.com/atlassian/react-beautiful-dnd/issues)
 - [Media](/docs/support/media.md)
 
-## Read this in other languages 🌎
-
-- [![kr](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/South-Korea.png) **한글/Korean**](https://github.com/LeeHyungGeun/react-beautiful-dnd-kr)
-- [![ru](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Russia.png) **На русском/Russian**](https://github.com/vtereshyn/react-beautiful-dnd-ru)
-- [![pt](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Brazil.png) **Português/Portuguese**](https://github.com/dudestein/react-beautiful-dnd-pt)
-- [![gr](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Greece.png) **Ελληνικά/Greek**](https://github.com/milvard/react-beautiful-dnd-gr)
-- [![ja](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/Japan.png) **日本語/Japanese**](https://github.com/eltociear/react-beautiful-dnd-ja)
-
 ## Creator ✍️
 
 Alex Reardon [@alexandereardon](https://twitter.com/alexandereardon)
@@ -179,3 +171,5 @@ Alex Reardon [@alexandereardon](https://twitter.com/alexandereardon)
 ## Collaborators 🤝
 
 - Bogdan Chadkin [@IAmTrySound](https://twitter.com/IAmTrySound)
+
+# Follow Me [gerald525](http://github.com/gerald525)
